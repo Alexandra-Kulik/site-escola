@@ -37,8 +37,8 @@ body {
     }
     /* Cor ao passar o mouse e ao clicar */
     .menu a:hover {
-    background-color: white;
-    color: #0ef15a;
+    background-color: #597445;
+    color: #82FFAC;
     
     }
     .menu a:active {
