@@ -67,8 +67,8 @@ body {
     text-decoration: none;
     }
     .dropdown-content li a:hover {
-    background-color: lightblue;
-    color: white;
+    background-color: black;
+    color: #597445;
     }
     .dropdown:hover .dropdown-content {
     display: block;
