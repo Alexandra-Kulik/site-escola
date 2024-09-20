@@ -38,7 +38,7 @@ body {
     /* Cor ao passar o mouse e ao clicar */
     .menu a:hover {
     background-color: lightgreen;
-    color: #82FFAC;
+    color: #4ae97f77;
     
     }
     .menu a:active {
