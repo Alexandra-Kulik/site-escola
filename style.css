@@ -10,14 +10,14 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #fff;
+    background-color: #597445;
     padding: 10px 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 /* Logo */
 .logo img {
-    height: 120px;
+    height: 100px;
 }
 
 /* Menu */
@@ -35,7 +35,7 @@ body {
 
 .menu a {
     text-decoration: none;
-    color: blue;
+    color: black;
     font-weight: bold;
     padding: 10px 15px;
     transition: background-color 0.3s, color 0.3s;
@@ -43,13 +43,13 @@ body {
 
 /* Cor ao passar o mouse e ao clicar */
 .menu a:hover {
-    background-color: lightblue;
-    color: white;
+    background-color: #597445;
+    color: black;
 }
 
 .menu a:active {
-    background-color: darkblue;
-    color: white;
+    background-color: rgb(0, 114, 6);
+    color: black;
 }
 
 /* Dropdown */
@@ -58,7 +58,7 @@ body {
     position: absolute;
     top: 100%;
     left: 0;
-    background-color: rgb(193, 193, 215);
+    background-color: #85A56D;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
     list-style: none;
     padding: 0;
@@ -73,13 +73,13 @@ body {
 .dropdown-content li a {
     display: block;
     padding: 10px;
-    color: blue;
+    color: #85A56D;
     text-decoration: none;
 }
 
 .dropdown-content li a:hover {
-    background-color: lightblue;
-    color: white;
+    background-color: #85A56D;
+    color: black;
 }
 
 .dropdown:hover .dropdown-content {
